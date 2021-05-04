@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-04-27T05:29:37.066Z","userMetadata":{},"modelName":"ANIMAL3 image model","labels":["大象","馬","狗","貓","牛","松鼠"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-05-04T06:03:06.383Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["甜甜圈","法國麵包","波蘿麵包","豆沙麵包","全麥麵包","肉桂捲","羅宋麵包"]}
